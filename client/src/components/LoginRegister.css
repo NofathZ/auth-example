@@ -1,0 +1,30 @@
+.login-box {
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  margin: 50px auto;
+  padding: 10px;
+}
+
+.title-box {
+  width: 100%;
+  min-height: 80px;
+}
+
+.title-box h1 {
+  text-align: center;
+}
+
+input {
+  border: none;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.664);
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
